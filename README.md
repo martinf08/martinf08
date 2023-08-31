@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinf08&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=html,css)](https://github.com/martinf08)
-[![martinf08's github stats](https://github-readme-stats.vercel.app/api?username=martinf08&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&line_height=40)](https://github.com/martinf08)
+
